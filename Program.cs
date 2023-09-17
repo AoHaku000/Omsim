@@ -10,6 +10,10 @@ namespace Omsim
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("balls");
+            Console.ReadKey();
+            Console.WriteLine("Hello");
+            Console.ReadKey();
         }
     }
 }
